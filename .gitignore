@@ -1,16 +1,4 @@
-# built application files
-*.apk
-*.ap_
-
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
+# Gradle files
 .gradle/
 build/
 
@@ -18,18 +6,15 @@ build/
 local.properties
 keystore.properties
 
-# Eclipse project files
-.classpath
-.project
-.settings
+# IntelliJ project files
+*.iml
+*.iws
+.idea/
+
+# Android Studio captures folder
+/captures
 
 # Others
+.DS_Store
 Thumbs.db
 lint.xml
-
-# Idea non-crucial project fileS
-*.iws
-
-# Project files
-*.iml
-.idea
