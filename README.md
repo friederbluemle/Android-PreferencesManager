@@ -1,4 +1,4 @@
-![Android-PreferencesManager](https://raw.github.com/SimonMarquis/Android-PreferencesManager/master/Resources/Feature%20graphic%20-%20resized.png "Android-PreferencesManager") 
+![Android-PreferencesManager](https://raw.github.com/SimonMarquis/Android-PreferencesManager/master/Resources/Feature%20graphic%20-%20resized.png "Android-PreferencesManager")
 #### Preferences Manager is an Open Source application that allows you to seamlessly edit application's preferences.
 This application requires a rooted phone! Without **root access**, it can't do anything.
 
@@ -28,8 +28,10 @@ You may not use the application for any illegal or unauthorized purpose!*
 
 ## Pull requests
 
-Feel free to contribute to PreferencesManager.  
-Either you found a bug or have created a new and awesome feature, just create a pull request.  
+Feel free to contribute to PreferencesManager.
+
+Either you found a bug or have created a new and awesome feature, just create a pull request.
+
 If you want to start to create a new feature or have any other questions regarding PreferencesManager, [file an issue](https://github.com/SimonMarquis/Android-PreferencesManager/issues/new).
 
 ## Developed By
@@ -43,13 +45,13 @@ If you want to start to create a new feature or have any other questions regardi
 ## License
 
 	Copyright (C) 2013 Simon Marquis (http://www.simon-marquis.fr)
-	
+
 	Licensed under the Apache License, Version 2.0 (the "License"); you may not
 	use this file except in compliance with the License. You may obtain a copy of
 	the License at
-	
+
 	http://www.apache.org/licenses/LICENSE-2.0
-	
+
 	Unless required by applicable law or agreed to in writing, software
 	distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 	WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
@@ -60,7 +62,7 @@ If you want to start to create a new feature or have any other questions regardi
  [1]: http://www.simon-marquis.fr
  [2]: https://github.com/Stericson
  [3]: https://github.com/Stericson/RootTools
- 
+
  [screen1]: https://raw.github.com/SimonMarquis/Android-PreferencesManager/master/Resources/framed/1%20-%20resized.png "List of applications"
  [screen2]: https://raw.github.com/SimonMarquis/Android-PreferencesManager/master/Resources/framed/2%20-%20resized.png "List of preferences"
  [screen3]: https://raw.github.com/SimonMarquis/Android-PreferencesManager/master/Resources/framed/3%20-%20resized.png "Inline edition of preferences"

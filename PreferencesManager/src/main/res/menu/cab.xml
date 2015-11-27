@@ -19,7 +19,7 @@
         android:id="@+id/action_select_all"
         android:icon="@drawable/ic_action_tiles_small"
         android:title="@string/action_select_all"/>
-    
+
     <item
         android:id="@+id/action_delete"
         android:icon="@drawable/ic_action_trash"
